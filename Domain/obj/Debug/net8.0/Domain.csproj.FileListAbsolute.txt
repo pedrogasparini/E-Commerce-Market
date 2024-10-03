@@ -1,0 +1,12 @@
+C:\source\repos\TUP\E-Commerce-Market\src\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\TUP\E-Commerce-Market\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\source\repos\TUP\E-Commerce-Market\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\source\repos\TUP\E-Commerce-Market\src\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\source\repos\TUP\E-Commerce-Market\src\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\source\repos\TUP\E-Commerce-Market\src\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\source\repos\TUP\E-Commerce-Market\src\Domain\bin\Debug\net8.0\Domain.dll
+C:\source\repos\TUP\E-Commerce-Market\src\Domain\bin\Debug\net8.0\Domain.pdb
+C:\source\repos\TUP\E-Commerce-Market\src\Domain\obj\Debug\net8.0\Domain.dll
+C:\source\repos\TUP\E-Commerce-Market\src\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\source\repos\TUP\E-Commerce-Market\src\Domain\obj\Debug\net8.0\Domain.pdb
+C:\source\repos\TUP\E-Commerce-Market\src\Domain\obj\Debug\net8.0\ref\Domain.dll
