@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Infrastructure\\Infrastructure.csproj": {}
+    "c:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Application\\Application.csproj": {
+    "c:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Application\\Application.csproj",
+        "projectUniqueName": "c:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Application\\Application.csproj",
+        "projectPath": "c:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Application\\obj\\",
+        "outputPath": "c:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Domain\\Domain.csproj"
+              "c:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Domain\\Domain.csproj": {
+                "projectPath": "c:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Domain\\Domain.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Domain\\Domain.csproj": {
+    "c:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Domain\\Domain.csproj",
+        "projectPath": "c:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Domain\\obj\\",
+        "outputPath": "c:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -128,14 +128,14 @@
         }
       }
     },
-    "C:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Infrastructure\\Infrastructure.csproj": {
+    "c:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "c:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "c:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Infrastructure\\obj\\",
+        "outputPath": "c:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -152,8 +152,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Application\\Application.csproj": {
-                "projectPath": "C:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Application\\Application.csproj"
+              "c:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Application\\Application.csproj": {
+                "projectPath": "c:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Application\\Application.csproj"
               }
             }
           }
