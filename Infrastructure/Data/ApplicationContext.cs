@@ -5,9 +5,9 @@ namespace Infrastructure.Data
 {
     public class ApplicationContext : DbContext
     {
-        public DbSet<Product> Products {get; set;}
+        public DbSet<Client> Clients {get; set;}
 
-        public ApplicationContext(DbContextOptions<ApplicationContext> options) : base(options)
+        public ApplicationContext(DbContextOptions<ApplicationContext> options) :base(options)
         {
 
         }

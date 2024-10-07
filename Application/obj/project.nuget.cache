@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XLBto26obr42q8iYJA45RPibXqEVF6FY0huchg2mc5ScnkUOeeZZccYngLpfWcd45fmt94NkEDeSaPgxAOhguw==",
+  "dgSpecHash": "H9KVQvs/Z8hqfYiVjpLqWLvJ4nWIsRWhfc8elTg+2CEZlftA96LiF4MFgG4XkSafHAPxXCV9JqKL/FKT9EVtOQ==",
   "success": true,
-  "projectFilePath": "C:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Application\\Application.csproj",
+  "projectFilePath": "c:\\source\\repos\\TUP\\E-Commerce-Market\\src\\Application\\Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
